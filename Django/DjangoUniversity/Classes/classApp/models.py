@@ -9,5 +9,5 @@ class djangoClasses(models.Model):
     objects = models.Manager()              # this is the object manager which will help us communicate w/ the database
 
     def __str__(self):                      # this line of code should display the title of the object
-        return self.title, self.courseNumber
+        return self.title + ' ' + str(self.courseNumber)
 
