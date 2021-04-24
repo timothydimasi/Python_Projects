@@ -5,7 +5,7 @@ Projects and assignments written in Python
 
 ### Django
 There are two projects housed in this folder.
-The first is called DjangoUniversity and its purpose was to become more comfortable with creating a project with Django/Pycharm.
+The first is called DjangoUniversity and its purpose was to help me become more comfortable with creating a project with Django/Pycharm.
 The second is djangoCheckbook and it allows the user to create profiles and transactions specific to each profile.
 
 ### File Transfer
